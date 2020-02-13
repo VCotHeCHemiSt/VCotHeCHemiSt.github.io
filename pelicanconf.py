@@ -5,7 +5,10 @@ from __future__ import unicode_literals
 AUTHOR = 'Valentina Colapicchioni, Ph.D.'
 SITENAME = 'VCotHeCHemiSt'
 SITEURL = ''
-THEME="notmyidea"
+
+
+THEME="elegant"
+
 
 PATH = 'content'
 
